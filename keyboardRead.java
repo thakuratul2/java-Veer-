@@ -20,7 +20,7 @@ nextBoolean() --Stores true or false values
 hasNextInt() --used to confirm the data is interger or not it return boolean value(True/False)
 hasNextFloat() --used to confirm the data is float or not it return boolean value(True/False)
  */
-import java.util.*;
+import java.util.*;//Import the Scanner class
 class keyboardRead
 {
     public static void main(String arg[])
